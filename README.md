@@ -2,7 +2,14 @@
 
 Use this Flow to add a Component or QuickAction that will add a Draft Article to a Case based on the Subject and Description of the Case.
 
+Deloy in Summer '18 and later
 <a href="https://githubsfdeploy.herokuapp.com?owner=derekdanderson&repo=createdraftarticlefromcase">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
+Deploy in Spring '18
+<a href="https://githubsfdeploy.herokuapp.com?owner=derekdanderson&repo=createdraftarticlefromcase&ref=API_42.0">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
@@ -14,4 +21,3 @@ Prerequisites:
 
 To-Do:
 - Currently this flow will display all Record Types to a user, even if she doesn't have access to create an article with that record type.  I want to add code that will determine which record types are available for the running user.
-
