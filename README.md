@@ -3,7 +3,7 @@
 Use this Flow to add a Component or QuickAction that will add a Draft Article to a Case based on the Subject and Description of the Case.
 
 If your Knowledge object has no Record Types<br/>
-<a href="https://githubsfdeploy.herokuapp.com?owner=derekdanderson&repo=createdraftarticlefromcase&ref=API_42.0">
+<a href="https://githubsfdeploy.herokuapp.com?owner=derekdanderson&repo=createdraftarticlefromcase&ref=norecordtypes">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
