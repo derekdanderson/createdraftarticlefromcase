@@ -15,7 +15,7 @@ Deploy in Spring '18<br/>
 </a>
 
 If your Knowledge object has no Record Types<br/>
-<a href="https://githubsfdeploy.herokuapp.com?owner=derekdanderson&repo=createdraftarticlefromcase&ref=API_42.0">
+<a href="https://githubsfdeploy.herokuapp.com?owner=derekdanderson&repo=createdraftarticlefromcase&ref=norecordtypes">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
