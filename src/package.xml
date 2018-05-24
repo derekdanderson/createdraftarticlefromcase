@@ -4,9 +4,5 @@
         <members>Create_Draft_Article_from_Case-4</members>
         <name>Flow</name>
     </types>
-    <types>
-        <members>Create_Draft_Article_from_Case</members>
-        <name>FlowDefinition</name>
-    </types>
     <version>42.0</version>
 </Package>
