@@ -8,12 +8,6 @@ Deloy in Summer '18 and later<br/>
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
-Deploy in Spring '18<br/>
-<a href="http://bit.ly/createDraftArticleFromCaseSpring18">
-  <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
-</a>
-
 If your Knowledge object has no Record Types<br/>
 <a href="http://bit.ly/createDraftArticleFromCaseNoRecordTypes">
   <img alt="Deploy to Salesforce"
