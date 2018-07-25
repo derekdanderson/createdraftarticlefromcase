@@ -58,18 +58,18 @@
     <decisions>
         <name>IsArticleRecordTypeNull</name>
         <label>IsArticleRecordTypeNull</label>
-        <locationX>855</locationX>
+        <locationX>856</locationX>
         <locationY>268</locationY>
         <defaultConnector>
             <targetReference>GetArticleId</targetReference>
         </defaultConnector>
         <defaultConnectorLabel>[Default Outcome]</defaultConnectorLabel>
         <rules>
-            <name>RT_is_Null</name>
+            <name>RT_is_Not_Null</name>
             <conditionLogic>and</conditionLogic>
             <conditions>
                 <leftValueReference>RecordTypeId</leftValueReference>
-                <operator>EqualTo</operator>
+                <operator>NotEqualTo</operator>
                 <rightValue>
                     <stringValue></stringValue>
                 </rightValue>
@@ -77,7 +77,7 @@
             <connector>
                 <targetReference>UpdateArticleRecordType</targetReference>
             </connector>
-            <label>RT is Null</label>
+            <label>RT is Not Null</label>
         </rules>
     </decisions>
     <decisions>
@@ -285,8 +285,8 @@
     <recordUpdates>
         <name>UpdateArticleRecordType</name>
         <label>UpdateArticleRecordType</label>
-        <locationX>685</locationX>
-        <locationY>151</locationY>
+        <locationX>673</locationX>
+        <locationY>153</locationY>
         <connector>
             <targetReference>GetArticleId</targetReference>
         </connector>
@@ -358,8 +358,8 @@ Version: {!ArticleVersionId}</fieldText>
     <screens>
         <name>Error2</name>
         <label>Error2</label>
-        <locationX>501</locationX>
-        <locationY>475</locationY>
+        <locationX>507</locationX>
+        <locationY>474</locationY>
         <allowBack>false</allowBack>
         <allowFinish>true</allowFinish>
         <allowPause>false</allowPause>
