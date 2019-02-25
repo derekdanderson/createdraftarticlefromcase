@@ -14,7 +14,7 @@ If your Knowledge object has no Record Types<br/>
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
-<b>UPDATE: There seems to be an issue with the "Deploy to Salesforce" button.  That is currently being looked at by the creator, but in the meantime you can <a href="https://github.com/derekdanderson/createdraftarticlefromcase/archive/master.zip">download this code locally as a ZIP</a> and deploy from Workbench.  <a href="https://help.salesforce.com/articleView?id=000247614&language=en_US&type=1">More info here</a>
+<b>UPDATE: An issue with the "Deploy to Salesforce" button has been fixed.  If you are still having issues, <a href="https://github.com/derekdanderson/createdraftarticlefromcase/archive/master.zip">download this code locally as a ZIP</a> and deploy from Workbench.  <a href="https://help.salesforce.com/articleView?id=000247614&language=en_US&type=1">More info here</a>
 </b>
 
 Prerequisites:
