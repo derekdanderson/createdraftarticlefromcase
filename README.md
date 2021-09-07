@@ -3,7 +3,7 @@
 Use this Flow to add a Component or QuickAction that will add a Draft Article to a Case based on the Subject and Description of the Case.
 
 Deloy in Summer '18 and later<br/>
-<a href="http://bit.ly/createDraftArticleFromCase">
+<a href="https://githubsfdeploy.herokuapp.com/?owner=derekdanderson&repo=createdraftarticlefromcase&ref=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
